@@ -2,9 +2,11 @@ package com.example.week6
 
 import javax.inject.Inject
 
-class UserRegistrationService @Inject constructor(userRepository: UserRepository,emailService: EmailService) {
-    private val userRepository = UserRepository()
-    private val emailService = EmailService()
+class UserRegistrationService @Inject constructor(
+    private val userRepository : UserRepository,
+    private val emailService: EmailService
+)
+{
 
     fun registerUser(email:String, password:String){
         userRepository.saveUser(email, password)

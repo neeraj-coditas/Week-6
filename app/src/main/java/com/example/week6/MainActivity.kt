@@ -16,6 +16,12 @@ class MainActivity : AppCompatActivity() {
             val i = Intent(this, DependencyInjectionImple::class.java)
             startActivity(i)
         }
+
+        binding.mainBtn2.setOnClickListener {
+            val i = Intent(this, DiWithHilt::class.java)
+            startActivity(i)
+        }
     }
+
 
 }
