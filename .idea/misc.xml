@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/activity_day3.xml" value="0.1" />
+        <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/activity_day4.xml" value="0.184375" />
         <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/activity_dependency_injection_imple.xml" value="0.1796875" />
         <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/activity_my_app.xml" value="0.1796875" />
+        <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/activity_recycler_view.xml" value="0.184375" />
+        <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/activity_retrofit.xml" value="0.1" />
+        <entry key="..\:/Users/coditas/AndroidStudioProjects/Week6/app/src/main/res/layout/item_view.xml" value="0.1" />
       </map>
     </option>
   </component>

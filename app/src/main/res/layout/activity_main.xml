@@ -36,6 +36,19 @@
             android:layout_height="wrap_content"
             android:text="DI WITH hilt"
             android:textSize="20sp"/>
+        <Button
+            android:id="@+id/mainBtn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Day 3"
+            android:textSize="20sp"/>
+        <Button
+            android:id="@+id/mainBtn4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Day 4"
+            android:textSize="20sp"/>
+
 
 
     </LinearLayout>
